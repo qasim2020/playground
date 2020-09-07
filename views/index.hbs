@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>landing page</title>
+  </head>
+  <body>
+    {{> navbar}}
+    
+    {{#each challenge}}
+      <div class="card">
+        <p>{{this.name}}</p>
+        <a href="/success?challenge={{this.identity}}">Start</a>
+      </div>
+    {{/each}}
+  </body>
+</html>
