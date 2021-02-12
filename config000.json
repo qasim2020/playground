@@ -7,8 +7,7 @@
     "cloudAPISecret": "gD2peI-k18itQb0gL2JKzHq--3s",
     "STRIPE": "sk_test_51H4pOlCAEMzmcXZYaHprUYZdBI4cmyLbO26hKo9C6i7HUSF8MIANXhfi89XGLqFjQOMUIGiNBavvEbYQ6drXDO2G003hLmF1FB",
     "url": "http://localhost:3000",
-    "ticket_price": "price_1HARloCAEMzmcXZYYwrTAvMh",
-    "Slack": "xoxb-1657055568038-1664619414546-sBvfaRONKxFY2tC6dxLTnWfM"
+    "ticket_price": "price_1HARloCAEMzmcXZYYwrTAvMh"
   },
   "development": {
     "MONGODB_URI": "mongodb://localhost:27017/CMS",
@@ -18,7 +17,6 @@
     "cloudAPISecret": "gD2peI-k18itQb0gL2JKzHq--3s",
     "STRIPE": "sk_test_51H4pOlCAEMzmcXZYaHprUYZdBI4cmyLbO26hKo9C6i7HUSF8MIANXhfi89XGLqFjQOMUIGiNBavvEbYQ6drXDO2G003hLmF1FB",
     "url": "http://localhost:3000",
-    "ticket_price": "price_1HARloCAEMzmcXZYYwrTAvMh",
-    "Slack": "xoxb-1657055568038-1664619414546-sBvfaRONKxFY2tC6dxLTnWfM"
+    "ticket_price": "price_1HARloCAEMzmcXZYYwrTAvMh"
   }
 }
