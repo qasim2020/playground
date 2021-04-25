@@ -9,7 +9,7 @@
     "url": "http://localhost:3000",
     "ticket_price": "price_1HARloCAEMzmcXZYYwrTAvMh",
     "zoho":"hello@qasimali.xyz",
-    "password":"1234Allah"
+    "zohop":"HTp6CRiNR4G3"
   },
   "development": {
     "MONGODB_URI": "mongodb://localhost:27017/CMS",
@@ -21,6 +21,6 @@
     "url": "http://localhost:3000",
     "ticket_price": "price_1HARloCAEMzmcXZYYwrTAvMh",
     "zoho":"hello@qasimali.xyz",
-    "password":"1234Allah"
+    "zohop":"HTp6CRiNR4G3"
   }
 }
