@@ -9215,6 +9215,21 @@
         "__v": 0,
         "created_at": "2021-04-29T01:51:57.259Z",
         "updatedAt": "2021-04-29T01:51:57.259Z"
+      },
+      {
+        "_id": "608b573af28d28c5e4f316a1",
+        "__v": 0,
+        "author": "Qasim Ali",
+        "body": "h1: How to build self control ?\np: While we believe we need sympathy, mercy or a shelter. We feel the need to be heard. We think things are not working out. Or our ways are not helping us. — It often leads us to believing we are not good enough. Slowly we start losing confidence. And self-inflicted assumption beats us down. We end up embracing ways, that conflicts our core beliefs. \nimg: how-to-build-self-control.png\np.text-center.caption: Photo by <a href=\"https://unsplash.com/@rrajav\" target=\"_blank\">Rajav Shrestha</a>\np: Under these circumstances, the opportunity presents itself. A smoker gets more hints to get a cigarette. Late night sitter gets more attracted towards Netflix. We open social media and go lost for hours. The cravings to change how we feel, takes us into activities that give <b>momentary</b> satisfaction. \np: We know, while in our hard times, the short sighted action is not helpful. Yet we commit it and end up feeling all guilty again. We try to rebuild the momentum. And somedays later, we find ourselves in the same pit again. \nh3: We can beat it \np: — through simple promises. I have promised \"I will break my phone, next time I use it to overcome feelings of anxiety or boredom\". And since 4 x days — I am done with my phone as a solution. Last night at Taraweeh, I promised myself, \"If I do not read all 20, I will break our dear shoe rack\". I read all taraweehs in a good delighted mood.\np: There are other promises you can use to your favour like, fine yourself Rs 30000, next time you smoke. Promise to break your most dear possession next time you commit the bad habit. And when the low time hits you — you will realise it is dangerous to think of smoking, using phone or pausing the streak. For in your peak state, you won't be able to break your promise.\np.note: I am working on a weekly newsletter — that reaches your email inbox every Friday. It includes, self-catharsis report, list of articles I published over the week, videos (if any I upload on YouTube), and the Quote that helped me the most. \np.note: <b class=\"brown\">Enter your email 👇 » press Subscribe » verify Email from inbox » Done 👍</b> . ",
+        "created_at": "2021-04-30T01:06:21.928Z",
+        "date": "2021-04-30",
+        "ser": "1048",
+        "slug": "how-to-build-self-control",
+        "tags": "Discipline, Control of thoughts, Punishment Value",
+        "type": "quranClass",
+        "updatedAt": "2021-04-30T01:11:33.061Z",
+        "verses": "Surah Yousaf, 30 - 35",
+        "publish": "true"
       }
     ]
   },
@@ -9250,6 +9265,16 @@
         "lists": "public",
         "updatedAt": "2021-04-29T02:11:07.820Z",
         "validation": "true"
+      },
+      {
+        "_id": "608b5dd3979556893598adce",
+        "email": "qasimali22@icloud.com",
+        "__v": 0,
+        "created_at": "2021-04-30T01:30:59.891Z",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-04-30T01:31:16.983Z",
+        "validation": "true"
       }
     ]
   },
@@ -9259,7 +9284,7 @@
       {
         "_id": "6084d31833d1caa8210c5653",
         "__v": 0,
-        "body": "h1: Hello 👋\r\np: This is a previous newsletter that is meant to be shipped once the blog post goes out. Lets see how it goes\r\np: This is also intended to make it easy to send an email to people. But I do not know how it turns out — lets see.\r\np: — regards, Qasim",
+        "body": "h1: Hi (Assalam o Alaikum) — 👋\r\np: This is my first newsletter, and I am so nervous. But as the term goes “Just Do it” and “Great things lie on the other side of the fear” — I feel it is the right thing to do. \r\np: My story is kind of amusing to myself. I hate most of it. Broken relationships, damaged car, and not so fun struggle. But some of it, I love. \r\np: I started learning to code in 2016, on Udemy. It lead me to a diverse community of software developers (<a href=\"https://getmakerlog.com\">getmakerlog</a> and <a href=\"https://ramadanmakers.com\">ramadanmakers</a>). Felt pumped and since that day — I am doing a lot of fun things. Talking on <a href=\"https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i\">meetups</a> and writing <a href=\"https://qasimali.xyz\">articles</a>.\r\np: Recently, I got a developer job of 500 USD / month ❤️. And slowly my dream (that I sketched in these 5 years) is becoming a reality. \r\np: I hope I keep you on board my journey. \r\np:<hr>\r\nh3: What should you expect in newsletters? \r\np: I hope I write a \r\np: - <b>quick summary</b> of how my week went by. \r\np: - <b>List of articles</b> I wrote over the week.\r\np: - <b>Videos</b> I shared on Youtube (if any).\r\np: - <b>Quotes</b> Favorite quote that I lived by during the week\r\np: I plan on sending it every Friday 2100 hrs (Pakistan Time GMT +5). \r\nh3: Important Links\r\np: Daily article at\r\np: <a href=\"https://qasimali.xyz\">https://qasimali.xyz</a>\r\np:\r\np: Videos on developer tricks at\r\np: <a href=\"https://youtube.com/nocodeapi\">https://youtube.com/nocodeapi</a>\r\np:\r\np: Our 12 x meet-ups in 12 months\r\np: <a href=\"https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i\">https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i</a>\r\np:\r\np: So — this is all for today. See you next Friday. Happy Coding » Growing » Succeeding. ✌️",
         "created_at": "2021-04-29T01:51:57.259Z",
         "list": "public",
         "name": "Edition 4th / April",
@@ -9267,7 +9292,7 @@
         "slug": "edition-4th-april",
         "status": "true",
         "subject": "4th Edition - Plans",
-        "updatedAt": "2021-04-29T02:09:06.717Z"
+        "updatedAt": "2021-04-30T00:00:19.919Z"
       },
       {
         "_id": "6084c9bb23e840a6cf67a219",
