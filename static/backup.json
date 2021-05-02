@@ -913,6 +913,14 @@
         "quantity": "3",
         "sessionId": "hMMnHSsKkZC1ATP_Z40JH0nDRd-ybpLA",
         "updatedAt": "2021-04-29T01:51:57.233Z"
+      },
+      {
+        "_id": "608b66969b4e51d59e658c3e",
+        "__v": 0,
+        "created_at": "2021-04-30T02:08:22.423Z",
+        "email": "false",
+        "sessionId": "LYxpxrkvXfH1Z8_EGB9mwX_f9N_Un8eU",
+        "updatedAt": "2021-04-30T02:08:22.423Z"
       }
     ]
   },
@@ -9230,6 +9238,36 @@
         "updatedAt": "2021-04-30T01:11:33.061Z",
         "verses": "Surah Yousaf, 30 - 35",
         "publish": "true"
+      },
+      {
+        "_id": "608cab119b4e51d59e658c47",
+        "__v": 0,
+        "author": "Qasim Ali",
+        "body": "h1: Motivation Loop\np: If we do not work, waste time, sit idle or fall into procrastination loop, how do we think we can even move. We spend a lot of time planning, idealising and thinking. But to be able to move forward, we can not sit idle forever. We got to take action, pick our pen, start writing our todo list, turn by turn put a cross on it, build momentum and break our current patterns. We got to turn ourselves in and win our share of these tremendous opportunities [internet, phone, car and weekends].\nimg: motivation-loop.jpg\np.text-center.caption: Photo by <a href=\"https://twitter.com/punch__lines\" target=\"_blank\">Me</a>\np: I got lazy last few months. Decided; I need to work and stop looking at the analytics figures. Bought a glass bottle. Printed / pasted \"<b>Sprint Sessions / Month</b>\" inside. Bought 250 x Coins. And started filling this bottle with coins for each session I spend on my goal. 1 Session equals 51 Minutes of focused work.\np.note: Yesterday, on 30th April 2021, I counted coins in bottle and it mounted to 86 x Sessions. That means — I worked 41 x Sessions more than I had in March. Nice.\nh3: Motivation loop\np: We look too often for the right motivation and environment. To work, we believe, it has to be fun first and then we can start. But the loop cycle is different. \nimg: motivation-loop-1049.png\np.text-center.caption: <a href=\"https://youtu.be/kzAuvOr-YsM?t=119\" target=\"_blank\">YouTube video</a> by Ali Abdaal\np: It is first Action (that we take right now), that produces a result (success), and the motivation is triggered after we have achieved results. As we grow motivation, our will to act grows. And thereby, we build a habit of producing motivation for ourselves.\np: If you think, it is all going to be easy, fun and simple — honestly, it is not Fun. You got to believe you are drowning in the ocean. Shore is not in sight. If you do not move your arms, you are going to drown. [After you start moving your arms, you feel 'the swim' is not that bad - you become motivated by your actions].\np.note: Subscribe to my newsletter where I share my weekly progress / link to latest articles / videos and one thing motivational.",
+        "created_at": "2021-05-01T01:19:05.664Z",
+        "date": "2021-05-01",
+        "ser": "1049",
+        "slug": "motivation-loop",
+        "tags": "Willpower, Action, Reward, The swim",
+        "type": "quranClass",
+        "updatedAt": "2021-05-01T01:22:40.157Z",
+        "verses": "Surah Yousaf, 36 - 42",
+        "publish": "true"
+      },
+      {
+        "_id": "608df6059b4e51d59e658c4d",
+        "__v": 0,
+        "author": "Qasim Ali",
+        "body": "h1: The Drought\np: When the king of Egypt saw a dream, \"7 x healthy cows eat away the 7 x week cows\". He called his people for its interpretation. People gathered, told him, \"it is just a random dream; without a meaning\". That we can stop thinking about it and carry on with our works. The soldier, who had met Yousaf (as) in prison and got the release recalled the promise he had made to Yousaf (as). He stood up, asked the king for a brief period until he could bring back the interpretation. \nimg: the-drought.png\np.text-center.caption: Photo by <a href=\"https://unsplash.com/@danielcgold\" target=\"_blank\">Dan Gold</a>\np: Yousaf (as) interpreted the dream, asked to store enough food for 7 x years of drought that you do not die of hunger. And after you survive the period — you will be blessed with significant rain, and production. That you may forget you faced these long hardships of  drought.\np: Similarly, we the people of Allah (swt) have no option but to lower our heads, show patience while the drought is eating us, and wait until the rain sheds our bad memories away.\np.note: Subscribe to get my week's progress report in your inbox.  ",
+        "created_at": "2021-05-02T00:48:02.128Z",
+        "date": "2021-05-02",
+        "ser": "1050",
+        "slug": "the-drought",
+        "tags": "Patience, Reward, Memories, Success",
+        "type": "quranClass",
+        "updatedAt": "2021-05-02T00:53:10.670Z",
+        "verses": "Surah Yousaf, 43 - 49",
+        "publish": "true"
       }
     ]
   },
@@ -9257,23 +9295,13 @@
     "name": "life-subscribers",
     "data": [
       {
-        "_id": "608a11f597955689359853b1",
+        "_id": "608b62c2979556893598b1e0",
         "email": "qasimali24@gmail.com",
         "__v": 0,
-        "created_at": "2021-04-29T01:55:01.143Z",
+        "created_at": "2021-04-30T01:52:02.459Z",
         "isUnsubscribed": "false",
         "lists": "public",
-        "updatedAt": "2021-04-29T02:11:07.820Z",
-        "validation": "true"
-      },
-      {
-        "_id": "608b5dd3979556893598adce",
-        "email": "qasimali22@icloud.com",
-        "__v": 0,
-        "created_at": "2021-04-30T01:30:59.891Z",
-        "isUnsubscribed": "false",
-        "lists": "public",
-        "updatedAt": "2021-04-30T01:31:16.983Z",
+        "updatedAt": "2021-04-30T01:52:44.851Z",
         "validation": "true"
       }
     ]
@@ -9297,15 +9325,15 @@
       {
         "_id": "6084c9bb23e840a6cf67a219",
         "__v": 0,
-        "body": "h1: Hey 👋 —\r\np: Welcome to my weekly newsletter.\r\np: If I had to tell you that you can change your life in a moment — \"NOW\" was the perfect moment, when I am writing this email. I just had a low negative ingress of thoughts. It was a mega push to throw me in to negativity. But, here I am, 2 minutes later, sitting back on my desk and in peak productive state. The magic is states. We can change everything in our life, in a snap. All it needs is to understand how our brain works.\r\np: Over the following few days, I will try to share how I control my thoughts process and manage to live up-to the standard I have set for myself.\r\np: While you receive these newsletters, I hope you will also learn these amazing tricks to handle your brain activity. Such as Mental cognitive, sub-modalities, pattern interrupt techniques and much more. These techniques have shaped nearly all areas of my life. I managed to Quit smoking, started learning to code, get a remote tech job, start writing articles and grow my relationship stronger.\r\np: But it is going to take its time, some practice and learning. Be with me — while you commit to growing. Thank you.\r\np: — Qasim",
+        "body": "h1: Hey 👋 —\r\np: Welcome to my weekly newsletter.\r\np: If I had to tell you that you can change your life in a moment — \"NOW\" was the perfect moment, when I am writing this email. I just had a low negative ingress of thoughts. It was a mega push to throw me in to negativity. But, here I am, 2 minutes later, sitting back on my desk and in peak productive state. The magic is <b>states</b>. We can change everything in our life, in a snap. All it needs is to understand how our brain works.\r\np: Over the following few days, I will try to share how I control my thoughts process and manage to live up-to the standard I have set for myself.\r\np: While you receive these newsletters, I hope you will also learn these amazing tricks to handle your brain activity. Such as sub-modalities, pattern interrupt, punishment value and much more. These techniques have shaped nearly all areas of my life. I managed to Quit smoking, started learning to code, get a remote tech job, started writing articles and grew my relationship stronger.\r\np: But it is going to take its time, some practice and learning. Be with me — while you commit to growing. Thank you.\r\np: — Qasim",
         "created_at": "2021-04-29T01:51:57.259Z",
-        "list": "not-needed",
+        "list": "public",
         "name": "Welcome",
         "publishTime": "2021-04-25T05:41:00.000Z",
         "slug": "welcome-email",
         "status": "true",
         "subject": "Welcome — ",
-        "updatedAt": "2021-04-29T01:51:57.259Z"
+        "updatedAt": "2021-04-30T01:38:15.041Z"
       }
     ]
   }
