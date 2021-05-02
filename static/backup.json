@@ -9296,12 +9296,192 @@
     "data": [
       {
         "_id": "608b62c2979556893598b1e0",
-        "email": "qasimali24@gmail.com",
         "__v": 0,
-        "created_at": "2021-04-30T01:52:02.459Z",
+        "created_at": "2021-05-02T02:21:35.348Z",
+        "email": "qasimali24@gmail.com",
         "isUnsubscribed": "false",
         "lists": "public",
-        "updatedAt": "2021-04-30T01:52:44.851Z",
+        "updatedAt": "2021-05-02T02:52:31.795Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577741",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "sufi92211@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577742",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "sayemb@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577743",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "mf380165@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577744",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "A_M-CHOUDRY@HOTMAIL.COM",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577745",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "alexawesomecode@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577746",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "bmweinstein7@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577747",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "asif.samad@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577748",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "shagufta.omar@iiu.edu.pk",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577749",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "xubairamd@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f36457774a",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "iqbal.18sig@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f36457774b",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "mihfazhillah@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f36457774c",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "rahmanj4u@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f36457774d",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "ahmadrasul38@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f36457774e",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "maa132527@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f36457774f",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "majid_ijaz@hotmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577750",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "mudassirkhan600@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577751",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "abidabano1024@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
+        "validation": "true"
+      },
+      {
+        "_id": "608e0cafc488b7f364577752",
+        "__v": 0,
+        "created_at": "2021-05-02T02:21:35.349Z",
+        "email": "fahd.chishty@gmail.com",
+        "isUnsubscribed": "false",
+        "lists": "public",
+        "updatedAt": "2021-05-02T02:21:35.349Z",
         "validation": "true"
       }
     ]
@@ -9312,15 +9492,15 @@
       {
         "_id": "6084d31833d1caa8210c5653",
         "__v": 0,
-        "body": "h1: Hi (Assalam o Alaikum) — 👋\r\np: This is my first newsletter, and I am so nervous. But as the term goes “Just Do it” and “Great things lie on the other side of the fear” — I feel it is the right thing to do. \r\np: My story is kind of amusing to myself. I hate most of it. Broken relationships, damaged car, and not so fun struggle. But some of it, I love. \r\np: I started learning to code in 2016, on Udemy. It lead me to a diverse community of software developers (<a href=\"https://getmakerlog.com\">getmakerlog</a> and <a href=\"https://ramadanmakers.com\">ramadanmakers</a>). Felt pumped and since that day — I am doing a lot of fun things. Talking on <a href=\"https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i\">meetups</a> and writing <a href=\"https://qasimali.xyz\">articles</a>.\r\np: Recently, I got a developer job of 500 USD / month ❤️. And slowly my dream (that I sketched in these 5 years) is becoming a reality. \r\np: I hope I keep you on board my journey. \r\np:<hr>\r\nh3: What should you expect in newsletters? \r\np: I hope I write a \r\np: - <b>quick summary</b> of how my week went by. \r\np: - <b>List of articles</b> I wrote over the week.\r\np: - <b>Videos</b> I shared on Youtube (if any).\r\np: - <b>Quotes</b> Favorite quote that I lived by during the week\r\np: I plan on sending it every Friday 2100 hrs (Pakistan Time GMT +5). \r\nh3: Important Links\r\np: Daily article at\r\np: <a href=\"https://qasimali.xyz\">https://qasimali.xyz</a>\r\np:\r\np: Videos on developer tricks at\r\np: <a href=\"https://youtube.com/nocodeapi\">https://youtube.com/nocodeapi</a>\r\np:\r\np: Our 12 x meet-ups in 12 months\r\np: <a href=\"https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i\">https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i</a>\r\np:\r\np: So — this is all for today. See you next Friday. Happy Coding » Growing » Succeeding. ✌️",
+        "body": "h1: Hi (Assalam o Alaikum) — 👋\r\np: This is my first newsletter, and I am so nervous. But as the term goes “Just Do it” and “Great things lie on the other side of the fear” — I feel it is the right thing to do. Soo shipping my newsletter 🚀\r\np: I started learning to code in 2016, on Udemy. It lead me to an amazing community of software developers (<a href=\"https://getmakerlog.com\">getmakerlog</a> and <a href=\"https://ramadanmakers.com\">ramadanmakers</a>). Felt pumped and since that day — I am doing things I love. Talking on <a href=\"https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i\">meetups</a> and writing <a href=\"https://qasimali.xyz\">articles</a>.\r\np: Recently, I got a developer job of 500 USD / month ❤️. And slowly my dream (that I sketched 5 years before) is becoming a reality. \r\nh1: What should you expect in newsletters? \r\np: — My <b>Weekly Progress Report</b>. \r\np: — <b>List of articles</b> I wrote over the week.\r\np: — <b>Videos</b> I recorded and uploaded on Youtube.\r\np: — My <b>Favorite Quote</b> that impacted my life.\r\np: I plan on sending it every Friday 2100 hrs (Pakistan Time GMT +5). Sorry this reaching on Sunday. \r\nh1: Important Links\r\np: Daily article at <a href=\"https://qasimali.xyz\">https://qasimali.xyz</a>\r\np: Videos on developer tricks at <a href=\"https://youtube.com/nocodeapi\">https://youtube.com/nocodeapi</a>\r\np: Our 12 x meet-ups in 12 months <a href=\"https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i\">https://youtube.com/playlist?list=PLhS951y_K7IE6ZyFP9R9PsylNs4MpcI8i</a>\r\np: <hr>\r\np: So — this is all for today. See you next Friday. Happy Living » Growing » Succeeding. ✌️",
         "created_at": "2021-04-29T01:51:57.259Z",
         "list": "public",
         "name": "Edition 4th / April",
-        "publishTime": "2021-04-29T02:10:00.000Z",
-        "slug": "edition-4th-april",
+        "publishTime": "2021-05-02T14:10:00.000Z",
+        "slug": "1st-newsletter-of-my-life",
         "status": "true",
-        "subject": "4th Edition - Plans",
-        "updatedAt": "2021-04-30T00:00:19.919Z"
+        "subject": "I think I am back ",
+        "updatedAt": "2021-05-02T02:36:36.488Z"
       },
       {
         "_id": "6084c9bb23e840a6cf67a219",
