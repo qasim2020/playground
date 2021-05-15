@@ -3846,7 +3846,7 @@
               "createdTime": "2021-04-17T04:00:53.000Z"
             },
             {
-              "id": "recUyGeC6e8soKBHa",
+              "id": "recUACyiEcdZlVdiC",
               "fields": {
                 "ser": "1063"
               }
@@ -11439,6 +11439,21 @@
         "updatedAt": "2021-05-14T02:06:49.623Z",
         "verses": "Surah Raad, 38 - 43",
         "publish": "true"
+      },
+      {
+        "_id": "609f1acc5de7e09c06fd12ee",
+        "__v": 0,
+        "author": "Qasim Ali",
+        "body": "h1: Make big tasks easy\r\np: Everyday, it feels the following day's tasks are harder. It overruns our physical capacity. Slowly what felt like bad emotions, turn into bad decisions and we end up harming our entire day.\r\np.note: I am trying to motivate myself for the following day — be with me. :D\r\nimg: make-big-tasks-easy.png\r\np.text-center.caption: Photo by <a href=\"https://unsplash.com/photos/Ej_GTF0JPss\" target=\"_blank\">Austin Distel</a>\r\np: First of all; there is no task a \"difficult\" task. All difficult tasks are things we have unknowingly put into spans of small time durations. For example, you were to finish the newsletter — it is hard if you plan to do it in 2 hours. But if you break it down into pieces, 1) write bullets of the letter 2) sift / sort the blue print 3) polish the intro and the ending 4) put in all external links. Before you start working on it - you will find half way near the end. Unknowingly you have done two things — create a road map to solve the problem and gave the task its due share of time.\r\np: Similarly, if you plan on fixing your car, complete an assignment, record few videos; try to break the tasks into eatable chunks. Slowly start eating them. And give yourself a baseline rule:— I am ok with bad quality product as long as I am showing up. And you will find yourself hitting these goals a lot faster than you thought. Again get stuck in the middle ? Break it further down. Again stuck - break down. Until you can easily eat the task.\r\np.note: I am writing eatable chunks of tips and tricks daily. Find weekly summary in your inbox by subscribing below.",
+        "created_at": "2021-05-15T00:52:32.125Z",
+        "date": "2021-05-15T05:50:00.000Z",
+        "publish": "true",
+        "ser": "1063",
+        "slug": "make-big-tasks-easy",
+        "tags": "Productivity, Assignment, Fun work",
+        "type": "quranClass",
+        "updatedAt": "2021-05-15T00:59:24.116Z",
+        "verses": "Surah Ibrahim, 1 - 6"
       }
     ]
   },
@@ -11738,6 +11753,19 @@
         "status": "true",
         "subject": "To master our craft —",
         "updatedAt": "2021-05-12T05:21:34.465Z"
+      },
+      {
+        "_id": "609f43a95de7e09c06fd12f1",
+        "__v": 0,
+        "body": "h1: Hi — Assalam o Alaikum & Eid Mubarak 👋\r\np: I made a commitment to carry forward the learnings of previous month of fasting. Wrote a todo list on the last day of Ramadan.\r\nbullet: 3:30 AM — Wake up nearly same time\r\nbullet: 4:30 AM — Wash the car, \r\nbullet: 5:40 AM — Write an article \r\nbullet: 9:00 AM to 11:00 AM — do pomodoro sprints.\r\npo: After walking this way — living Ramadan lifestyle — I feel it is doable. That, to carry forward the productivity of month of Ramadan is possible. \r\npo: My beliefs are changing rapidly the last 2 months. I never thought I could do vlogs as a dedicated hobby; But I made the \r\nao.announcement: https://youtu.be/Q3b3UCA6h4I\r\nao/: \r\ntext: . I never thought, I would believe in hard-work; I did 86 hours work in April alone [not recommended for good mental health]. I never believed I can do self branding — but I published my \r\nao.portfolio website: https://qasimali.xyz\r\nao/: \r\npo/: from scratch.\r\np: While reading 7 Habits of Highly Effective People by Stephen Covey, I came across this short story of Bill Gates and Warren Buffet. On a dinner night, Bill Gates and Warren Buffet were asked; one thing you have struggled the most over your journeys — they both responded, “Focus”. \r\np: The past two months my biggest challenge has been the same, Focus. I manage to show up and do work. But while in the flow zone, I easily get distracted. It drains my energy. And — I tell myself, “<i>Qasim you are walking the same path Gates and Buffet walked - it is ok. Keep your head low and keep walking.</i>” Luckily it helps. Slowly the focus comes back and unknowingly I walk another hour or two.\r\nh3: My first Vlog\r\np: Watching so many people record videos, I decided to give videos a shot. It is less time consuming compared to writing an article. And the outcome is bigger than article [ debatable ]. Found it powerful. And decided to record <b>one vlog per week</b>. This is an experiment where I try to focus more on quality than consistency. Wish me luck. 🥰\r\nimg: eid-mubarak-vlog\r\ncaptionO: \r\nao.Watch on YouTube: https://youtu.be/Q3b3UCA6h4I\r\nao/: \r\ncaptiono/: \r\np: This is it for my weekly thoughts. Coming over to the <strike>progress</strike> corners for this week —\r\nh3: Developers’ Corner\r\np: I am forking a Content Management System (CMS) dedicated for my projects - that I do not lose my work - and re-use the modules written for one project inside other projects. It has improved my blog publishing time [ for example, when I publish my blog to localhost - it automatically syncs it with the Airtable - where editing data is real simple ]. \r\np: Building modules that help nobody but myself - are motivation booster. Because you are easing your own life. You save time. Thereby, become more focused towards your goal [ instead of un-necessary intermediate interruptions ].\r\np: The 3 x developer hacks for this week are below 👇\r\na.Fetch Netlify Form Submissions in JSON: https://youtu.be/v475_BdFTYQ\r\na.Receive Daily weather report in your phone: https://youtu.be/5HBMdBBzpRA\r\na.Automatically Bulk Compile meta tags: https://youtu.be/9EiaL64UlsM\r\nh3: Readers’ Corner\r\np: Their are two books on my bed side table / in washroom / tv lounge / kitchen shelves - 1) The 7 Habits of Highly Effective People and 2) 5 AM Club. I place similar books all around me [ hopefully I talk about it in a future vlog ]. That when urge comes to watch YouTube / or scroll twitter - I can go lost into Reading mode. \r\np: After reading these books, Quran and a lot of self talk, I wrote following articles over this week. \r\na.1/ A magical World: https://qasimali.xyz/life/gen/page/openBlog/a-magical-world\r\na.2/ 3 x Tips to become happy: https://qasimali.xyz/life/gen/page/openBlog/3-tips-to-be-happy\r\na.3/ Signs of Allah (swt): https://qasimali.xyz/life/gen/page/openBlog/signs-of-Allah\r\na.4/ Our kitten died yesterday —:  https://qasimali.xyz/life/gen/page/openBlog/our-kitten-died-yesterday\r\na.5/ Make the right choice: https://qasimali.xyz/life/gen/page/openBlog/make-the-right-choice\r\na.6/ Eid Mubarak —: https://qasimali.xyz/life/gen/page/openBlog/eid-mubarak\r\na.7/ Hard choices on drifting roads: https://qasimali.xyz/life/gen/page/openBlog/hard-choices-on-drifting-roads\r\nh3: And 1 x Quote\r\nquote: What you are shouts so loudly in my ears, that I can not hear you. <br> — Emerson\r\np: <hr> \r\np: This is it for the week. I wish you a fun week ahead that is both productive and packed with growth.  💪",
+        "created_at": "2021-05-15T03:45:20.631Z",
+        "list": "public",
+        "name": "Assalam o Alaikum and Eid Mubarak 👋",
+        "publishTime": "2021-05-15T20:44:00.000Z",
+        "slug": "eid-mubarak-vlog",
+        "status": "true",
+        "subject": "What you are, speaks —",
+        "updatedAt": "2021-05-15T04:27:08.429Z"
       }
     ]
   }
