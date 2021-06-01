@@ -3910,6 +3910,12 @@
               "fields": {
                 "ser": "1075"
               }
+            },
+            {
+              "id": "recH4YSSMBa2ND2UF",
+              "fields": {
+                "ser": "1077"
+              }
             }
           ]
         }
@@ -11664,6 +11670,21 @@
         "type": "quranClass",
         "updatedAt": "2021-05-27T00:33:05.226Z",
         "verses": "Surah Hijr, 45 - 60"
+      },
+      {
+        "_id": "60b576d10f728ebc155d7f59",
+        "__v": 0,
+        "author": "Qasim Ali",
+        "body": "h1: Skip Lengthy Plans\r\np: There is no right way. If you are thinking about a plan, that lasts few days, remember, the right long plan is usually a mesh of things that look good only from a distance. As you near them, these plans become a confusing mess. And when you are untying the rope, making the small fixes, focusing on its tasks, you find yourself confused. Make sure, when you make a plan, it only highlights the broad contours. And slowly, gradually you eat the cake. One task at a time. One complex problem solved at a time.\r\nimg: do-what-you-love.png\r\np.text-center.caption: Photo by <a href=https://unsplash.com/photos/OYwK6AZ8_Bw target=_blank>Balkan Campers</a>\r\np: If it is not fun some days down the road, it is a distraction. Today sitting in a luxury, high rise, large window apartment looks fun — but tomorrow or in a month, it is going to get boring. Repeated patterns repel us. We need a continuous change to feel great. We want to continuously solve problems. We are designed to make solutions. An idle mind, a time of no work, is a recipe to a fading life. Keep solving the problems, everyday, find a solution to one task, put your brain to the work — and protect your soul from feeling small.\r\np: Try to overlap (superimpose) a life mission on top of your dream goal. Each task should lift your community 1 bit. Each article should make people's life 1 step easier. Each word said, should help people feel brave. Each step should add value to the big mission. If you can't afford the giant van office, try to find a low cost camp, a camping stool, take your laptop and find a silence stream. If you can't afford to find audience, try to make a good video and share on YouTube. If you can't find a good publisher, build your own portfolio and share your work as blogs. But, do not walk in isolation. Skip lengthy long plans. Try to sprinkle joy and happiness over your tiny everyday tasks.\r\np.note: I am writing a newsletter every other day, all methods to stay engaged and happy. Find them in your inbox by dropping your email below.",
+        "created_at": "2021-06-01T00:09:55.696Z",
+        "date": "2021-06-01T04:53:00.000Z",
+        "publish": "true",
+        "ser": "1077",
+        "slug": "skip-lengthy-plans",
+        "tags": "Distraction, Joyous Life, Pie of the Cake",
+        "type": "quranClass",
+        "updatedAt": "2021-06-01T00:18:58.147Z",
+        "verses": "Surah Hijr, 80 - 99"
       }
     ]
   },
