@@ -324,40 +324,13 @@
     "name": "chodhry-slides",
     "data": [
       {
-        "_id": "613b3296adfa5944542c0938",
-        "__v": 0,
-        "content": "\n\n            <div>\n\n                <div class=\"banner\"><p class=\"e\" onclick=\"editable(this)\">Talk to us.</p></div>\n                <div class=\"img\">\n                    <img class=\"e\" src=\"https://res.cloudinary.com/miscellaneous/image/upload/v1631243698/chodhry/contactform.png\" alt=\"\" onclick=\"editable(this)\">\n                </div>\n                <button class=\"e\" onclick=\"editable(this)\" contenteditable=\"true\">open Contact Form ➝</button>\n\n            </div>\n\n        ",
-        "created_at": "2021-09-16T03:00:06.941Z",
-        "sequence": "5",
-        "style": "slide-contact",
-        "updatedAt": "2021-09-16T03:00:06.941Z"
-      },
-      {
-        "_id": "613c058c24156e4ccc5ce38f",
-        "__v": 0,
-        "content": "\n\n\n<div>\n\n<div class=\"banner\">\n<p class=\"e\">Our Happy&nbsp; Customers.</p>\n</div>\n\n<div class=\"quote\">\n\n<div>\n\n<p class=\"e\">I was nothing if I can ever find a trustworthy space to buy my dream property back home. Found Hashim Ali, and I have always recommended him to my colleagues and friends.  </p>\n<p class=\"e\">Sarah, Manchester, UK</p>\n<a class=\"e\" href=\"\">Find more on google ➝</a>\n</div>\n\n</div>\n\n</div>\n\n",
-        "created_at": "2021-09-16T03:00:06.941Z",
-        "sequence": "4",
-        "style": "slide-review",
-        "updatedAt": "2021-09-18T07:30:17.429Z"
-      },
-      {
         "_id": "61396475166b1835693bbf62",
         "__v": 0,
         "content": "\n\n<div>\n\n<section class=\"left\">\n\n<h1 class=\"e\" onclick=\"\"><b>Defence</b>&nbsp;Properties</h1>\n<p class=\"e\" onclick=\"\">Maj Gul Awaiz (R) has been running Defence Properties for last 10 years. He is from 78th PMA Long Course. A proud Signaller, who takes pride in a high quality and 100 % trusted customer support.</p>\n<p class=\"note e\" onclick=\"\">A project of Akhtar Chodhry &amp; Sons (ACS), private limited.</p>\n\n</section>\n\n\n<section class=\"right\">\n\n<img class=\"e h-100\" src=\"https://res.cloudinary.com/miscellaneous/image/upload/v1631151626/chodhry/mainphoto.jpg\" alt=\"\" public_id=\"613964d0166b1835693bbf63\" href=\"https://res.cloudinary.com/miscellaneous/image/upload/v1631151626/chodhry/mainphoto.jpg\" onclick=\"\">\n\n</section>\n\n\n</div>\n\n",
         "created_at": "2021-09-16T03:00:06.941Z",
         "sequence": "1",
         "style": "slide-intro",
-        "updatedAt": "2021-09-18T07:29:11.011Z"
-      },
-      {
-        "_id": "6138809591624c296b02b277",
-        "__v": 0,
-        "content": "\n<div>\n<img class=\"e\" src=\"http://res.cloudinary.com/miscellaneous/image/upload/v1631151556/chodhry/6138279a94bd05288ea35edd.png\" alt=\"\" public_id=\"6138279a94bd05288ea35edd\" onclick=\"editable(this)\" contenteditable=\"true\">\n\n<h1 class=\"e\" onclick=\"editable(this)\" contenteditable=\"true\">EXPLORE</h1>\n<p><a href=\"1\" class=\"e\" onclick=\"editable(this)\" contenteditable=\"true\">Properties in DHA, Islamabad</a></p>\n<p><a href=\"2\" class=\"e\" onclick=\"editable(this)\" contenteditable=\"true\">Properties in Bahria, Islamabad</a></p>\n<p><a href=\"3\" class=\"e\" onclick=\"editable(this)\" contenteditable=\"true\">Properties in Phase 8, Islamabad</a></p>\n<p><a href=\"4\" class=\"e\" onclick=\"editable(this)\" contenteditable=\"true\">Properties in DHA, Gujranwala</a></p>\n\n<h1 class=\"e\" onclick=\"editable(this)\">VISIT</h1>\n<p class=\"e\" onclick=\"editable(this)\">Shop No # 8, Bahria Town Phase 7, Near gulberg, Phase 7, Islamabad, Pakistan</p>\n\n\t<h1 class=\"e\" onclick=\"editable(this)\">CONTACT US</h1>\n\t<p class=\"e\" onclick=\"editable(this)\">gul7878@gmail.com</p>\n\t<p class=\"e\" onclick=\"editable(this)\">+92 331 5586889</p>\n\n\t<h1 class=\"e\" onclick=\"editable(this)\">FOLLOW</h1>\n<p><a href=\"2\" class=\"e\" onclick=\"editable(this)\">Twitter</a></p>\n<p><a href=\"2\" class=\"e\" onclick=\"editable(this)\">Facebook</a></p>\n\n</div>\n                    ",
-        "created_at": "2021-09-16T03:00:06.940Z",
-        "sequence": "0",
-        "style": "slide-footer",
-        "updatedAt": "2021-09-16T03:00:06.940Z"
+        "updatedAt": "2021-09-20T01:35:45.201Z"
       },
       {
         "_id": "613c24a36724a6506ce13279",
@@ -366,16 +339,43 @@
         "created_at": "2021-09-16T03:00:06.941Z",
         "sequence": "2",
         "style": "slide-photo",
-        "updatedAt": "2021-09-18T07:29:55.639Z"
+        "updatedAt": "2021-09-20T01:35:45.201Z"
       },
       {
         "_id": "613c24d59976005085256fe1",
         "__v": 0,
-        "content": "\n\n<div>\n\n<div class=\"img\"><img src=\"https://res.cloudinary.com/miscellaneous/image/upload/v1631241547/chodhry/loc.png\" alt=\"\" class=\"e h-100\" onclick=\"\"></div>\n<div class=\"banner\"><p class=\"e\" onclick=\"\">Operating from Rawalpindi.</p></div>\n<div class=\"address\">\n<p class=\"e\" onclick=\"\">Office # 8 · Bolan Heights · 7th Avenue · Phase 7 ·&nbsp;Bahria <br> Rawalpindi <br> Pakistan </p>\n<p class=\"e\" onclick=\"\">+92 331 5584889 </p>\n<p class=\"e\" onclick=\"\">gul7878@gmail.com </p>\n<a class=\"e\" href=\"\" onclick=\"\">Get Directions ⇢</a>\n</div>\n\n\n</div>\n\n",
+        "content": "\n\n<div>\n\n<div class=\"img\">\n<img src=\"https://res.cloudinary.com/miscellaneous/image/upload/v1632101500/chodhry/Screenshot_2021-09-20_at_6.29.30_AM.png\" alt=\"\" class=\"e h-100\">\n</div>\n\n<div class=\"address\">\n<p class=\"e\">Office # 303, 1st Floor, Plaza # 43, Mid Way Commercial, Phase 7, Bahria<br>Rawalpindi (Islamabad),&nbsp;<br> Pakistan\n</p>\n<p class=\"e\">0331 5586889 <br> gulawaizch2424@gmail.com </p>\n<a class=\"e\" href=\"https://www.google.com/maps/search/defence+properties/@33.522442,73.1084243,17z/data=!3m1!4b1\">Get Directions&nbsp; →</a>\n</div>\n</div>\n\n",
         "created_at": "2021-09-16T03:00:06.941Z",
-        "sequence": "3",
+        "sequence": "5",
         "style": "slide-location",
-        "updatedAt": "2021-09-16T03:00:06.941Z"
+        "updatedAt": "2021-09-20T01:35:45.201Z"
+      },
+      {
+        "_id": "6145fa870905765a7374fa51",
+        "__v": 0,
+        "content": "\n\n<div>\n\n<div class=\"img\"> <img class=\"e\" src=\"https://res.cloudinary.com/miscellaneous/image/upload/v1631976387/chodhry/dha_homes.png\" alt=\"\"> </div>\n<!-- <div class=\"banner\"> <p class=\"e\">Business should be something we all love.</p> </div> -->\n<div class=\"link\">DHA 3, Rwp</div>\n\n</div>\n\n",
+        "created_at": "2021-09-18T14:41:55.648Z",
+        "sequence": "3",
+        "style": "slide-photo",
+        "updatedAt": "2021-09-20T01:36:22.588Z"
+      },
+      {
+        "_id": "6146054c770a7f5aec0b4b78",
+        "__v": 0,
+        "content": "\n                        <div>\n                        <img class=\"e\" src=\"http://res.cloudinary.com/miscellaneous/image/upload/v1631070109/chodhry/6138279a94bd05288ea35edd.png\" alt=\"\" public_id=\"6138279a94bd05288ea35edd\" onclick=\"\">\n\n                        <h1 class=\"e\" onclick=\"\">EXPLORE</h1>\n                        <p><a href=\"1\" class=\"e\" onclick=\"\">Properties in DHA, Islamabad</a></p>\n                        <p><a href=\"2\" class=\"e\" onclick=\"\">Properties in Bahria, Islamabad</a></p>\n                        <p><a href=\"3\" class=\"e\" onclick=\"\">Properties in Phase 8, Islamabad</a></p>\n                        <p><a href=\"4\" class=\"e\" onclick=\"\">Properties in DHA, Gujranwala</a></p>\n\n                        <h1 class=\"e\" onclick=\"\">VISIT</h1>\n                        <p class=\"e\" onclick=\"\">Office # 303, 1st Floor, Plaza # 43, Mid Way Commercial, Phase 7, Bahria, Rawalpindi (Islamabad), Pakistan</p>\n\n                                <h1 class=\"e\" onclick=\"\">CONTACT US</h1>\n                                <p class=\"e\" onclick=\"\">gulawaizch2424@gmail.com</p>\n                                <p class=\"e\" onclick=\"\">+92 331 5586889</p>\n\n                                <h1 class=\"e\" onclick=\"\">FOLLOW</h1>\n                        <p><a href=\"2\" class=\"e\" onclick=\"\">Twitter</a></p>\n                        <p><a href=\"2\" class=\"e\" onclick=\"\">Facebook</a></p>\n\n                        </div>\n                    ",
+        "created_at": "2021-09-18T15:27:08.419Z",
+        "sequence": "0",
+        "style": "slide-footer",
+        "updatedAt": "2021-09-18T15:27:58.867Z"
+      },
+      {
+        "_id": "6147e4f5897c107d0c9bd066",
+        "__v": 0,
+        "content": "\n\n<div>\n\n<div class=\"img\"> <img class=\"e\" src=\"https://res.cloudinary.com/miscellaneous/image/upload/v1632101678/chodhry/WhatsApp_Image_2021-09-18_at_20.26.09.jpg\" alt=\"\"> </div>\n<div class=\"link\">Office in Bahria 7, Rwp</div>\n\n</div>\n\n",
+        "created_at": "2021-09-20T01:33:51.433Z",
+        "sequence": "4",
+        "style": "slide-photo",
+        "updatedAt": "2021-09-20T01:35:45.201Z"
       }
     ]
   },
@@ -14382,196 +14382,100 @@
     "name": "chodhry-properties",
     "data": [
       {
-        "_id": "6121ee40ba6c6be5882cbe94",
-        "__v": 0,
-        "city": "Peshawar",
-        "created_at": "2021-09-16T03:00:06.924Z",
-        "demand": 1000000,
-        "details": "Near the Qasim Market and Parade Lane, If willing to visit let me know please in advance..",
-        "size": "1 Kanal",
-        "status": "Required",
-        "town": "DHA 1",
-        "updatedAt": "2021-09-18T06:01:47.665Z"
-      },
-      {
-        "_id": "611c26c02caa2228098ba539",
+        "_id": "6145ffc86d8751e671ba2a34",
         "__v": 0,
         "city": "Rawalpindi",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 5500000,
-        "details": "plot no 38 .end cornor with 2 marla extra land..road 2.. sec E....dha 3 rwp",
-        "size": "2 Kanal",
+        "created_at": "2021-09-18T15:03:56.665Z",
+        "demand": 13000000,
+        "details": "Plot # 28 - 30, Road # 1, Sector # J. Distance from Giga Mall - 8 to 10 Mins drive. Hot Selling.",
+        "size": "1 Kanal",
         "status": "Selling",
         "town": "DHA 3",
-        "updatedAt": "2021-09-18T04:34:27.716Z"
+        "updatedAt": "2021-09-18T15:18:12.527Z"
       },
       {
-        "_id": "611c26c02caa2228098ba53c",
-        "__v": 0,
-        "city": "Multan",
-        "created_at": "2021-09-16T03:00:06.924Z",
-        "demand": 32500000,
-        "details": "brig villa (cornor)is avable demand 30 lacs ..negotiation possible",
-        "size": "1 Kanal",
-        "status": "Selling",
-        "town": "DHA",
-        "updatedAt": "2021-09-16T03:00:06.924Z"
-      },
-      {
-        "_id": "611c26c02caa2228098ba53e",
-        "__v": 0,
-        "city": "Peshawar",
-        "created_at": "2021-09-16T03:00:06.924Z",
-        "demand": 9000000,
-        "details": "plz contact for sale purchase of plots/ askari appartments.",
-        "size": "1 Kanal",
-        "status": "Required",
-        "town": "Askari",
-        "updatedAt": "2021-09-16T03:00:06.924Z"
-      },
-      {
-        "_id": "611c26c02caa2228098ba53f",
-        "__v": 0,
-        "city": "Karachi",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 23500000,
-        "details": "one brig house on sale",
-        "size": "1.5 Kanal",
-        "status": "Selling",
-        "town": "DHA",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
-      },
-      {
-        "_id": "611c26c02caa2228098ba538",
-        "__v": 0,
-        "city": "Islamabad",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 9000000,
-        "details": "plot no ..xyz...size 5 marla ..sec F... dha 5.....demand 89 lacs",
-        "size": "15 Marla",
-        "status": "Required",
-        "town": "DHA 5",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
-      },
-      {
-        "_id": "6121ee43ba6c6be5882cbe95",
-        "__v": 0,
-        "city": "Peshawar",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 32500000,
-        "details": "Near the Qasim Market and Parade Lane, If willing to visit let me know please in advance..",
-        "size": "1 Kanal",
-        "status": "Archive",
-        "town": "Askari 2",
-        "updatedAt": "2021-09-18T06:04:47.391Z"
-      },
-      {
-        "_id": "611c26c02caa2228098ba53d",
-        "__v": 0,
-        "city": "Gujranwala",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 72500000,
-        "details": "5 marla..10marla.. kanal plots r available .",
-        "size": "2 Kanal",
-        "status": "Archive",
-        "town": "DHA",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
-      },
-      {
-        "_id": "612297a7396199ec0d83b07e",
+        "_id": "6145ffc20ba73f0d7250272e",
         "__v": 0,
         "city": "Rawalpindi",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 4500000,
-        "details": "Near Grand Mosque, corner plot, raised ground than vicinity and a perfect space to live a post retirement life. Urgent sale is requested please.",
-        "size": "10 Marla",
+        "created_at": "2021-09-18T15:03:56.665Z",
+        "demand": 16500000,
+        "details": "Plot # 46 - 51, Road # 2, Sector # E. Distance from Giga Mall is 8 to 10 Mins drive. Hot Selling.",
+        "size": "1 Kanal",
         "status": "Selling",
-        "town": "DHA 1",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
+        "town": "DHA 3",
+        "updatedAt": "2021-09-18T15:18:12.528Z"
       },
       {
-        "_id": "611c26c02caa2228098ba537",
+        "_id": "6145ffced1fbab3e7895febe",
         "__v": 0,
-        "city": "Islamabad",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 90000000,
-        "details": "basement office J sec .DHA ph 2 demand 49 lacs",
-        "size": "5 Marla",
-        "status": "Sold",
-        "town": "DHA 2",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
+        "city": "Rawalpindi",
+        "created_at": "2021-09-18T15:03:56.665Z",
+        "demand": 21500000,
+        "details": "Plot # 13 - 15, Street # 1, Sector # C. Plot located at higher ground. Price is increasing on daily basis. Please contact for urgent sale.",
+        "size": "1 Kanal",
+        "status": "Selling",
+        "town": "DHA 4",
+        "updatedAt": "2021-09-18T15:18:12.528Z"
       },
       {
-        "_id": "611c26c02caa2228098ba540",
+        "_id": "6146006692b65b05a8fe4fae",
         "__v": 0,
         "city": "Islamabad",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 9000000,
-        "details": "One 3 bed rooms appt is available",
-        "size": "35 Marla",
+        "created_at": "2021-09-18T15:18:12.528Z",
+        "demand": 1500000,
+        "details": "Files are available at very reasonable rates. For details please contact.",
+        "size": "5 / 8 Marlas",
+        "status": "Selling",
+        "town": "DHA Valley",
+        "updatedAt": "2021-09-18T15:18:12.528Z"
+      },
+      {
+        "_id": "614600c3655397cacb5cb377",
+        "__v": 0,
+        "city": "Bahawalpur",
+        "created_at": "2021-09-18T15:18:12.528Z",
+        "demand": 3500000,
+        "details": "Please contact if you want to sell your plot / files. Urgent required.",
+        "size": "5/10 Marla & 1 Kanal",
         "status": "Required",
-        "town": "Bahria",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
+        "town": "DHA",
+        "updatedAt": "2021-09-18T15:19:24.026Z"
       },
       {
-        "_id": "611c26c02caa2228098ba53b",
+        "_id": "6146019b0a6024a808cebe15",
         "__v": 0,
         "city": "Multan",
-        "created_at": "2021-09-16T03:00:06.924Z",
-        "demand": 42500000,
-        "details": "plot no xyz.. cornor plot...one kanal...R sec...offer required",
-        "size": "2 Kanal",
+        "created_at": "2021-09-18T15:18:12.528Z",
+        "demand": 15000000,
+        "details": "Plot # 1166, Sector # R, Corner Plot. Good location for house construction.",
+        "size": "1 Kanal",
         "status": "Selling",
         "town": "DHA",
-        "updatedAt": "2021-09-16T03:00:06.924Z"
+        "updatedAt": "2021-09-18T15:18:12.528Z"
       },
       {
-        "_id": "611c26c02caa2228098ba541",
-        "__v": 0,
-        "city": "Islamabad",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 9000000,
-        "details": "Two bed rooms appt available.",
-        "size": "4 Marla",
-        "status": "Required",
-        "town": "Bahria",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
-      },
-      {
-        "_id": "611c26c02caa2228098ba542",
-        "__v": 0,
-        "city": "Islamabad",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 42500000,
-        "details": "Ph 8 extension 5 marla file avable",
-        "size": "1 Kanal",
-        "status": "Sold",
-        "town": "Bahria 8",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
-      },
-      {
-        "_id": "6121ee2cba6c6be5882cbe93",
-        "__v": 0,
-        "city": "Peshawar",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 1000000,
-        "details": "Near the Qasim Market and Parade Lane, If willing to visit let me know please in advance..",
-        "size": "1 Kanal",
-        "status": "Selling",
-        "town": "DHA 9",
-        "updatedAt": "2021-09-18T06:01:47.653Z"
-      },
-      {
-        "_id": "611c26c02caa2228098ba53a",
+        "_id": "614601d3af73ce348f3a3c32",
         "__v": 0,
         "city": "Quetta",
-        "created_at": "2021-09-16T03:00:06.925Z",
-        "demand": 17500000,
-        "details": "Qta file are avalble plz contact for sale purchase",
-        "size": "10 Marla",
-        "status": "Sold",
-        "town": "DHA ",
-        "updatedAt": "2021-09-16T03:00:06.925Z"
+        "created_at": "2021-09-18T15:18:12.528Z",
+        "demand": 7300000,
+        "details": "Files are available. Hot Selling.",
+        "size": "1 Kanal (affidavit)",
+        "status": "Selling",
+        "town": "DHA",
+        "updatedAt": "2021-09-18T15:22:24.108Z"
+      },
+      {
+        "_id": "614602c3055e49cdb7a17d92",
+        "__v": 0,
+        "city": "Gujranwala",
+        "created_at": "2021-09-18T15:18:12.528Z",
+        "size": "5/8 Marla & 1 Kanal",
+        "status": "Selling",
+        "town": "DHA",
+        "updatedAt": "2021-09-18T15:22:24.114Z",
+        "demand": 4500000,
+        "details": "Prices increasing on daily basis. Do not miss this opportunity. Hot Selling."
       }
     ]
   },
